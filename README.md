@@ -5,7 +5,7 @@ Backend Engineer with a BSc in Mathematics & Computer Science (final year, Natio
 - 🔭 Currently building an **e-commerce backend** and a **distributed rate limiter** in Java
 - 🛠️ Backend systems built during internships at **SyntecxHub** and **LSGO Technologies**
 - 🌱 Learning Java through the University of Helsinki's Java Programming MOOC
-- 🎯 Aiming for backend/software engineering roles — Amazon among them
+- 🎯 Aiming for backend/software engineering roles - Amazon among them
 - ⚡ C++, Python, Java
 
 ---
